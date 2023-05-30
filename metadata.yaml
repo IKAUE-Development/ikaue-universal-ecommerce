@@ -1,5 +1,5 @@
 homepage: "https://www.ikaue.com/"
 documentation: "https://raw.githubusercontent.com/IKAUE-Development/ikaue-universal-ecommerce/main/README.md"
 versions:
-  - sha: b5cabaa13eeb0db11714eb06e75fd6543381f5b0
+  - sha: 9f7643d22606040e4c3faa33e8afdab095be3154
     changeNotes: Initial release.
