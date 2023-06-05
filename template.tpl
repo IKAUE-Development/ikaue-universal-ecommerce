@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "IKAUE Universal Ecommerce",
-  "categories": ["ANALYTICS"],
+  "categories": ["ANALYTICS", "SALES", "CONVERSION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
